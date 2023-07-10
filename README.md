@@ -7,6 +7,12 @@ I'm a {fullstack} developer, i'm graduated in Software Engineer and post graduan
 
 - [Website](https://jonathansc92.github.io/jonathancruzdev) 💻 - Working on it.
 
+### Languages
+- PHP
+- NodeJs
+- VueJs
+- ReactJs
+
 - ### Some Courses
 - [Laravel Database and Eloquent](https://www.udemy.com/certificate/UC-ATAHQQZZ/)
 - [Laravel 5.5 and with VueJs](https://www.udemy.com/certificate/UC-FXN5XLK5/)
