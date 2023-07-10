@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathancruz/)](https://www.linkedin.com/in/jonathancruz/)
 
 ### About me
-I'm a {fullstack} developer, i'm graduated in Software Engineer and post graduanted.
+I'm a {fullstack} developer.
 
-- [Website](https://jonathansc92.github.io/jonathancruzdev) 💻 - Working on it.
+- [Website](https://jonathansc92.github.io/jonathancruzdev) 💻
 
 ### Languages
 - PHP
